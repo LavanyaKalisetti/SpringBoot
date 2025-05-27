@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;BoootRestProj10-MiniProject-ActorAPI-ControllerAdvice&apos; to &apos;BoootRestProj11-MiniProject-ActorAPI-ControllerAdvice&apos;" description="Rename resource &apos;BoootRestProj10-MiniProject-ActorAPI-ControllerAdvice&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/BoootRestProj10-MiniProject-ActorAPI-ControllerAdvice" name="BoootRestProj11-MiniProject-ActorAPI-ControllerAdvice" stamp="1746074087958" updateReferences="true"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;BootMVCProj02-DataRendering&apos; to &apos;BootMVCProj05-DataRendering&apos;" description="Rename resource &apos;BootMVCProj02-DataRendering&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/BootMVCProj02-DataRendering" name="BootMVCProj05-DataRendering" stamp="1743315049743" updateReferences="true"/>
+</session>

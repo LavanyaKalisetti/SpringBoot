@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;BootIOCProj07-ConfigurationProperties&apos; to &apos;BootIOCProj07-BulkInjectionUsing-ConfigurationProperties&apos;" description="Rename resource &apos;BootIOCProj07-ConfigurationProperties&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/BootIOCProj07-ConfigurationProperties" name="BootIOCProj07-BulkInjectionUsing-ConfigurationProperties" stamp="1739931156413" updateReferences="true"/>
+</session>

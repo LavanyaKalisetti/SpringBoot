@@ -1,0 +1,9 @@
+#spring.application.name=BootIOCProj09-YML-Application
+
+#customer Information
+cust:
+   info:
+      custNo: 101
+      custName: Lavanya
+      custAddrs: Hyderabad
+      billAmt: 567389

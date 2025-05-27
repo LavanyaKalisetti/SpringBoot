@@ -1,0 +1,13 @@
+127.0.0.1 - - [01/May/2025:09:41:56 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [01/May/2025:09:41:57 +0530] "GET /BoootRestProj10-MiniProject-Actor-api/ HTTP/1.1" 404 275
+0:0:0:0:0:0:0:1 - - [01/May/2025:09:41:57 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [01/May/2025:09:43:38 +0530] "DELETE /BoootRestProj10-MiniProject-Actor-api/actor-api/remove/1024 HTTP/1.1" 200 27
+127.0.0.1 - - [01/May/2025:09:55:30 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [01/May/2025:09:55:30 +0530] "GET /BoootRestProj10-MiniProject-Actor-api/ HTTP/1.1" 404 275
+0:0:0:0:0:0:0:1 - - [01/May/2025:09:57:24 +0530] "DELETE /BoootRestProj10-MiniProject-Actor-api/actor-api/remove/200000.0/1000000.0 HTTP/1.1" 500 161
+127.0.0.1 - - [01/May/2025:09:58:30 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [01/May/2025:09:58:31 +0530] "GET /BoootRestProj10-MiniProject-Actor-api/ HTTP/1.1" 404 275
+0:0:0:0:0:0:0:1 - - [01/May/2025:09:59:04 +0530] "DELETE /BoootRestProj10-MiniProject-Actor-api/actor-api/remove/200000.0/1000000.0 HTTP/1.1" 200 25
+127.0.0.1 - - [01/May/2025:10:23:42 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [01/May/2025:10:23:43 +0530] "GET /BoootRestProj11-MiniProject-ActorAPI-ControllerAdvice/ HTTP/1.1" 500 29
+0:0:0:0:0:0:0:1 - - [01/May/2025:10:29:50 +0530] "POST /BoootRestProj11-MiniProject-ActorAPI-ControllerAdvice/actor-api/register HTTP/1.1" 201 40

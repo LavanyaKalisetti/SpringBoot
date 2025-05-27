@@ -1,0 +1,34 @@
+#spring.application.name=BootIOCProj10-Complex-YML
+
+#Employees info
+org:
+   nit:
+      #for simple properties
+         eno: 1001
+         ename: Lavanya
+      #for array property
+         favColors:
+            -red
+            -blue
+            -green
+      #for List Collection
+         nickNames:
+             -Chinna
+             -Kanna
+      #for Set collection
+         phoneNumbers:
+            -273827309
+            -567682900
+            -676238909
+      #for Map Collection
+         idDetails:
+            aadhar:6734891098
+            voter:37493043492
+            panNo:26748903487
+      #for HAS-A-Property
+         company:
+            id:201
+            name:HCL
+            addrs:Vizag
+            size:200
+    

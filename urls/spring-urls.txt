@@ -1,0 +1,12 @@
+spring: 
+   datasource:
+     driver-class-name: oracle.jdbc.driver.OracleDriver
+     url: jdbc:oracle:thin:@localhost:1521:orcl
+     username: system
+     password: tiger
+     type: oracle.ucp.jdbc
+   c3pO:
+     minsize: 10
+     maxsize: 1000
+   
+     

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;BoootMSProj06-ConfigServer&apos; to &apos;BoootMSProj06-ConfigServer-ExternalConfigFile&apos;" description="Rename resource &apos;BoootMSProj06-ConfigServer&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/BoootMSProj06-ConfigServer" name="BoootMSProj06-ConfigServer-ExternalConfigFile" stamp="1747633032052" updateReferences="true"/>
+</session>

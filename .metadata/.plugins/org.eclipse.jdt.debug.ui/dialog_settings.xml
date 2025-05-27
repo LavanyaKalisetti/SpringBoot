@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=IOCProj1Maven/src\/main\/java&amp;lt;com.nt.test{StrategyDPTest.java[StrategyDPTest&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=IOCProj05Maven-StrategyDp/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&amp;lt;com.nt.test{StrategyDPTest.java[StrategyDPTest&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=IOCProj06/src\/main\/java&amp;lt;com.nt.client{StrategyDPTest.java[StrategyDPTest&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=IOCProj07/src\/main\/java&amp;lt;com.nt.test{SingletonTest.java[SingletonTest&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=IOCProj08-ValueAnnotation-PropertiesFile/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&amp;lt;com.nt.main{PropertiesFileTest.java[PropertiesFileTest&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=IOCProj09-I18n-Spring/src\/main\/java&amp;lt;com.nt.main{App.java[App&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=IOCProj09-SpringI18n/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&amp;lt;com.nt.main{App.java[App&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=IOCProj09-SpringI18n/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&amp;lt;com.nt.client{Spring_I18nTest.java[Spring_I18nTest&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=BootProj01-DependencyInjection/C:\/Users\/kalis\/.m2\/repository\/net\/bytebuddy\/byte-buddy-agent\/1.15.11\/byte-buddy-agent-1.15.11.jar&amp;lt;net.bytebuddy.agent(Attacher.class[Attacher&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=IOCProj06Maven-StrategDP-Spring/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&amp;lt;com.nt.client{StrategyDPTest.java[StrategyDPTest&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=IOCProj10-SpringBeanLifeCycle/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&amp;lt;com.nt.client{SpringBeanLifeCycleTest.java[SpringBeanLifeCycleTest&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=BoootRestProj01-ProviderApp/C:\/Users\/kalis\/.m2\/repository\/net\/bytebuddy\/byte-buddy-agent\/1.15.11\/byte-buddy-agent-1.15.11.jar=/maven.pomderived=/true=/=/test=/true=/=/org.eclipse.jst.component.nondependency=/=/=/maven.groupId=/net.bytebuddy=/=/maven.artifactId=/byte-buddy-agent=/=/maven.version=/1.15.11=/=/maven.scope=/test=/=/maven.pomderived=/true=/=/org.eclipse.jst.component.dependency=/\/WEB-INF\/lib=/&amp;lt;net.bytebuddy.agent(Attacher.class[Attacher&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=BoootRestProj13-ConsumerApp-RestTemplate/C:\/Users\/kalis\/.m2\/repository\/net\/bytebuddy\/byte-buddy-agent\/1.15.11\/byte-buddy-agent-1.15.11.jar=/maven.pomderived=/true=/=/test=/true=/=/maven.groupId=/net.bytebuddy=/=/maven.artifactId=/byte-buddy-agent=/=/maven.version=/1.15.11=/=/maven.scope=/test=/=/maven.pomderived=/true=/&amp;lt;net.bytebuddy.agent(Attacher.class[Attacher&lt;/infoNode&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;"/>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_WIDTH" value="600"/>
+			<item key="DIALOG_X_ORIGIN" value="368"/>
+			<item key="DIALOG_Y_ORIGIN" value="186"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+	<section name="OpenFromClipboardAction_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="706"/>
+		<item key="DIALOG_Y_ORIGIN" value="136"/>
+		<item key="DIALOG_WIDTH" value="526"/>
+		<item key="DIALOG_HEIGHT" value="575"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>
